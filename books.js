@@ -41,9 +41,8 @@ async function renderBooks(filter) {
 
   booksWrapper.innerHTML = booksHtml;
 }
-setTimeout(() => {
-  renderBooks();
-});
+renderBooks(); // Call it immediately
+
 
 function filterBooks(event) {
   renderBooks(event.target.value);
