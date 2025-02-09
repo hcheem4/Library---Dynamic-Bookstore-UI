@@ -32,6 +32,7 @@ This project showcases **JavaScript-based dynamic content rendering**,
 **API simulation**, and **filtering functionality**, making it a great 
 demonstration of frontend development best practices.  
 
-You can view the live version of the project here: [Library - 
-E-Commerce](#) *(Coming Soon)*
+## **🔗 Live Demo**
+👉 [View Live 
+Project](https://hcheem4.github.io/Library---Dynamic-Bookstore-UI/)
 
